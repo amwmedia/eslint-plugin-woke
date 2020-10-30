@@ -47,6 +47,7 @@ Then configure the rules you want to use under the rules section.
 * racism
 * profanity
 * gender
+* LGBTQ
 
 ## Contributions Welcome
 While this plugin attemts to call attention to as many offensive terms as possible, the work of inclusivity is never complete. Please help to expand the categories and offensive words list so that we can all benefit from our collective lived experiences.
