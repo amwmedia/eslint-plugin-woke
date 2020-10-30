@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-woke",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ESLint plugin to make your code more woke.",
   "keywords": [
     "eslint",
@@ -17,14 +17,12 @@
     "url": "https://github.com/amwmedia/eslint-plugin-woke.git"
   },
   "scripts": {
-    "test": "mocha tests --recursive"
+    "test": "echo \"No tests found\""
   },
   "dependencies": {
     "requireindex": "~1.1.0"
   },
-  "devDependencies": {
-    "mocha": "^3.1.2"
-  },
+  "devDependencies": {},
   "peerDependencies": {
     "eslint": "~3.9.1"
   },
