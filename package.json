@@ -1,0 +1,31 @@
+{
+  "name": "eslint-plugin-woke",
+  "version": "0.0.1",
+  "description": "ESLint plugin to make your code more woke.",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin",
+    "trigger-warnings",
+    "triggering",
+    "woke"
+  ],
+  "author": "Andrew Worcester",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha tests --recursive"
+  },
+  "dependencies": {
+    "requireindex": "~1.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.1.2"
+  },
+  "peerDependencies": {
+    "eslint": "~3.9.1"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "license": "ISC"
+}
