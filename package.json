@@ -12,6 +12,10 @@
   ],
   "author": "Andrew Worcester",
   "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amwmedia/eslint-plugin-woke.git"
+  },
   "scripts": {
     "test": "mocha tests --recursive"
   },
