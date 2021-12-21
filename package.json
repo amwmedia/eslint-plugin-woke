@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-woke",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ESLint plugin to make your code more woke.",
   "keywords": [
     "eslint",
