@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-woke",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ESLint plugin to make your code more woke.",
   "keywords": [
     "eslint",
@@ -24,7 +24,7 @@
   },
   "devDependencies": {},
   "peerDependencies": {
-    "eslint": "^3.0.0 || ^4.0.0 || ^5.0.0 || ^6.0.0 || ^7.0.0"
+    "eslint": "^3.0.0 || ^4.0.0 || ^5.0.0 || ^6.0.0 || ^7.0.0 || ^8.0.0"
   },
   "engines": {
     "node": ">=10.0.0"
